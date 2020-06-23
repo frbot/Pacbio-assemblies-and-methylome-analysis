@@ -1,4 +1,7 @@
 #! /bin/sh
+=Francesca Bottacini
+#f.bottacini@umail.ucc.ie
+
 
 #Convert bax to bam files, only if you are dealing with RSII dataset and ask to provide the path for raw data
 rawpath="$1"
