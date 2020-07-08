@@ -1,5 +1,5 @@
 #! /bin/sh
-=Francesca Bottacini
+#Francesca Bottacini
 #f.bottacini@umail.ucc.ie
 
 
